@@ -61,4 +61,4 @@ Each project folder contains:
 
 ## **Author**
 
-Sayed — university student, learning Python seriously to build strong programming fundamentals and real-world project experience.
+Sayed Iftikhar Qasimi — university student, learning Python seriously to build strong programming fundamentals and real-world project experience.
