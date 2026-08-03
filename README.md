@@ -16,7 +16,8 @@ This repository documents my progress through the course, with each project buil
 │   ├── 03-hangman/
 │   ├── 04-password-generator/
 │   ├── 06-caesar-cipher/
-│   └── ...
+│   └── 07-Blind_Auction/
+|   └── ...
 ├── intermediate/
 │   ├── 21-project-name/
 │   └── ...
@@ -40,7 +41,8 @@ Each project folder contains:
 | 03 | Hangman               | lists, loops, random module        | ✅     |
 | 04 | Password Generator    | random.choice, random.shuffle      | ✅     |
 | 06 | Caesar Cipher         | list indexing, modulo, functions   | ✅     |
-| 07 | ...                   | ...                                 | ⬜     |
+| 07 | Blind Auction         | Dictionaries, os module            | ✅     |
+| 08 | ...                   | ...                                | ⬜     |
 
 *(Update this table as you go — it's the fastest way to see your progress at a glance.)*
 
