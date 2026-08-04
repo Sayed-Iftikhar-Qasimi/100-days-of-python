@@ -41,8 +41,9 @@ Each project folder contains:
 | 03 | Hangman               | lists, loops, random module        | ✅     |
 | 04 | Password Generator    | random.choice, random.shuffle      | ✅     |
 | 06 | Caesar Cipher         | list indexing, modulo, functions   | ✅     |
-| 07 | Blind Auction         | Dictionaries, os module            | ✅     |
-| 08 | ...                   | ...                                | ⬜     |
+| 09 | Blind Auction         | Dictionaries, os module            | ✅     |
+| 10 | Calculater            | Function with output, Recursion    | ✅     |
+| 11 | ...                   |                                    | ⬜     |
 
 *(Update this table as you go — it's the fastest way to see your progress at a glance.)*
 

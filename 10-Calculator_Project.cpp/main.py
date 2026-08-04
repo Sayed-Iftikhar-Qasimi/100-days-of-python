@@ -53,6 +53,7 @@ while is_continue:
     if choice == "y":
         is_continue_with_previous = True
     else:
+        is_continue_with_previous = False
         clear_screen()
         print(logo)
 
