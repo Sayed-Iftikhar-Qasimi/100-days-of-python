@@ -51,26 +51,28 @@ def play_game():
 
         if guess == random_number:
             print(f"You got it! The answer was {random_number}.")
-            break
+            return
 
         attempts -= 1
 
         if attempts == 0:
             print("You've run out of guesses. Refresh the page to run again.")
-            break
+            return
 
         print("Too high" if guess > random_number else "Too low")
         print(f"You have {attempts} guesses remaining\n")
         guess = get_guess()
 
+   
+
+while True: 
+    play_game()
     replay = input("\nDo you want to play again. Type 'y' or 'n': ").lower()
     if replay == "y":
         clear_screen()
-        play_game()
     else:
         print("Thanks for playing! Goodbye!")
-
-play_game()
+        break
 
 
 
